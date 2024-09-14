@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello and welcome!");
-        int var = 7/0;
+        System.out.println("Bienvenido al sistema!");
+        int var = 7/2;
     }
 }
